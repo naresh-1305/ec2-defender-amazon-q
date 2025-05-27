@@ -21,7 +21,7 @@ EC2 Defender is a PyGame-based arcade shooter where you control an EC2 instance 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10.12
 - PyGame library
 
 ### Setup
@@ -73,7 +73,7 @@ The game uses the following assets:
 ## Development
 
 This game was developed using:
-- Python 3
+- Python 3.10.12
 - PyGame library
 - Amazon Q CLI for assistance with code development
 
