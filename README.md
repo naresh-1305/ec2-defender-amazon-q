@@ -29,7 +29,7 @@ EC2 Defender is a PyGame-based arcade shooter where you control an EC2 instance 
 1. Clone this repository or download the source code:
    ```
    git clone <repository-url>
-   cd ec2-game
+   cd ec2-defender-amazon-q
    ```
 
 2. Install PyGame if you don't have it already:
@@ -85,10 +85,6 @@ Potential future improvements:
 - Multiple levels with increasing difficulty
 - High score tracking
 - Sound effects and music
-
-## License
-
-[Include license information here]
 
 ## Acknowledgments
 
